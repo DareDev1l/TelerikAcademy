@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

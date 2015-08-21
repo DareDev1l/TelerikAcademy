@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

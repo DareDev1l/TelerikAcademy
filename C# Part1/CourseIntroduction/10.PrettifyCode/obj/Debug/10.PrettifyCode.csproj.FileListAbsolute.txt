@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\10.PrettifyCode\bin\Debug\10.PrettifyCode.exe.config
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\10.PrettifyCode\bin\Debug\10.PrettifyCode.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\10.PrettifyCode\bin\Debug\10.PrettifyCode.pdb
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\10.PrettifyCode\obj\Debug\10.PrettifyCode.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\10.PrettifyCode\obj\Debug\10.PrettifyCode.pdb

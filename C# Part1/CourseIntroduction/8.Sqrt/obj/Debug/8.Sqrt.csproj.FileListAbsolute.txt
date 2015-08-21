@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\8.Sqrt\bin\Debug\8.Sqrt.exe.config
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\8.Sqrt\bin\Debug\8.Sqrt.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\8.Sqrt\bin\Debug\8.Sqrt.pdb
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\8.Sqrt\obj\Debug\8.Sqrt.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\8.Sqrt\obj\Debug\8.Sqrt.pdb

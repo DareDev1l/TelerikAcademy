@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

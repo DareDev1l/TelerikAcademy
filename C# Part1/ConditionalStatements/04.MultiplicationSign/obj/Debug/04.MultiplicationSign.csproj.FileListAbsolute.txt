@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

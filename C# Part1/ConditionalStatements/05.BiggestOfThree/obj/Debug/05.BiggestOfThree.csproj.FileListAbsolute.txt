@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\05.BiggestOfThree\bin\Debug\05.BiggestOfThree.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\05.BiggestOfThree\bin\Debug\05.BiggestOfThree.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\05.BiggestOfThree\bin\Debug\05.BiggestOfThree.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\05.BiggestOfThree\obj\Debug\05.BiggestOfThree.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\05.BiggestOfThree\obj\Debug\05.BiggestOfThree.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\05.BiggestOfThree\obj\Debug\05.BiggestOfThree.pdb

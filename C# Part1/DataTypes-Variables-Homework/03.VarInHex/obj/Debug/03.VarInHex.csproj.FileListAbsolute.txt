@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\03.VarInHex\bin\Debug\03.VarInHex.exe.config
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\03.VarInHex\bin\Debug\03.VarInHex.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\03.VarInHex\bin\Debug\03.VarInHex.pdb
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\03.VarInHex\obj\Debug\03.VarInHex.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\03.VarInHex\obj\Debug\03.VarInHex.pdb

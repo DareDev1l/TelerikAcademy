@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\01.VariableDeclare\bin\Debug\01.VariableDeclare.exe.config
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\01.VariableDeclare\bin\Debug\01.VariableDeclare.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\01.VariableDeclare\bin\Debug\01.VariableDeclare.pdb
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\01.VariableDeclare\obj\Debug\01.VariableDeclare.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\01.VariableDeclare\obj\Debug\01.VariableDeclare.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\01.VariableDeclare\obj\Debug\01.VariableDeclare.pdb

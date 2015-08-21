@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\05.BoolVar\bin\Debug\05.BoolVar.exe.config
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\05.BoolVar\bin\Debug\05.BoolVar.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\05.BoolVar\bin\Debug\05.BoolVar.pdb
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\05.BoolVar\obj\Debug\05.BoolVar.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\05.BoolVar\obj\Debug\05.BoolVar.pdb

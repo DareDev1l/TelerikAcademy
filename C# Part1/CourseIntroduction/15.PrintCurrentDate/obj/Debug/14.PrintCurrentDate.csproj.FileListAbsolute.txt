@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\15.PrintCurrentDate\bin\Debug\15.PrintCurrentDate.exe.config
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\15.PrintCurrentDate\bin\Debug\15.PrintCurrentDate.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\15.PrintCurrentDate\bin\Debug\15.PrintCurrentDate.pdb
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\15.PrintCurrentDate\obj\Debug\14.PrintCurrentDate.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\15.PrintCurrentDate\obj\Debug\15.PrintCurrentDate.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\15.PrintCurrentDate\obj\Debug\15.PrintCurrentDate.pdb

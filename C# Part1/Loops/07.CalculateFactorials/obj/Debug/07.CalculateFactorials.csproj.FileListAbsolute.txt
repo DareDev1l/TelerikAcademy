@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\07.CalculateFactorials\bin\Debug\07.CalculateFactorials.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\07.CalculateFactorials\bin\Debug\07.CalculateFactorials.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\07.CalculateFactorials\bin\Debug\07.CalculateFactorials.pdb
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\07.CalculateFactorials\obj\Debug\07.CalculateFactorials.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\07.CalculateFactorials\obj\Debug\07.CalculateFactorials.pdb
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\07.CalculateFactorials\obj\Debug\07.CalculateFactorials.csprojResolveAssemblyReference.cache

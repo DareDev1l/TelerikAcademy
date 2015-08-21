@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\14.AsciiTable\bin\Debug\14.AsciiTable.exe.config
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\14.AsciiTable\bin\Debug\14.AsciiTable.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\14.AsciiTable\bin\Debug\14.AsciiTable.pdb
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\14.AsciiTable\obj\Debug\14.AsciiTable.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\14.AsciiTable\obj\Debug\14.AsciiTable.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb

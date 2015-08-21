@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\03.PlayCard\bin\Debug\03.PlayCard.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\03.PlayCard\bin\Debug\03.PlayCard.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\03.PlayCard\bin\Debug\03.PlayCard.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\03.PlayCard\obj\Debug\03.PlayCard.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\03.PlayCard\obj\Debug\03.PlayCard.pdb

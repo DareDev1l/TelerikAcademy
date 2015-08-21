@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\14.DecimalToBinary\bin\Debug\14.DecimalToBinary.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\14.DecimalToBinary\bin\Debug\14.DecimalToBinary.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\14.DecimalToBinary\bin\Debug\14.DecimalToBinary.pdb
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\14.DecimalToBinary\obj\Debug\14.DecimalToBinary.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\14.DecimalToBinary\obj\Debug\14.DecimalToBinary.pdb
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\14.DecimalToBinary\obj\Debug\14.DecimalToBinary.csprojResolveAssemblyReference.cache

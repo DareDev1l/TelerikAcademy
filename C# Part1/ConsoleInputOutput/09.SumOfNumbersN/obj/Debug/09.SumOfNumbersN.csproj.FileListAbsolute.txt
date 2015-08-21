@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\09.SumOfNumbersN\bin\Debug\09.SumOfNumbersN.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\09.SumOfNumbersN\bin\Debug\09.SumOfNumbersN.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\09.SumOfNumbersN\bin\Debug\09.SumOfNumbersN.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\09.SumOfNumbersN\obj\Debug\09.SumOfNumbersN.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\09.SumOfNumbersN\obj\Debug\09.SumOfNumbersN.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb

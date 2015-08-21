@@ -1,0 +1,43 @@
+﻿1. Eclipse
+
+Eclipse is an integrated development environment (IDE). It contains a base
+workspace and an extensible plug-in system for customizing the environment.
+Written mostly in Java, Eclipse can be used to develop applications. By
+means of various plug-ins, Eclipse may also be used to develop applications
+in other programming languages.
+
+
+2. NetBeans
+
+NetBeans is an integrated development environment for developing primarily 
+with Java, but also with other languages, in particular PHP, C/C++, and
+HTML5. It is also an application platform framework for Java desktop
+applications and others. The NetBeans IDE is written in Java and can
+run on Windows, OS X, Linux, Solaris and other platforms supporting
+a compatible JVM.
+
+
+3. MonoDevelop
+
+MonoDevelop is an open source integrated development environment for Linux,
+OS X, and Windows. Its primary focus is development of projects that use 
+Mono and .NET frameworks. MonoDevelop integrates features similar to those 
+of NetBeans and Microsoft Visual Studio, such as automatic code completion,
+source control, a graphical user interface (GUI) and Web designer.
+
+
+4. Code::Blocks
+
+Code::Blocks is a free, open source cross-platform IDE which supports 
+multiple compilers including GCC, Clang and Visual C++. It is developed
+in C++ using wxWidgets as the GUI toolkit. Using a plugin architecture,
+its capabilities and features are defined by the provided plugins. 
+Currently, Code::Blocks is oriented towards C, C++, and Fortran.
+
+
+5. WebStorm
+
+JetBrains WebStorm is a commercial IDE for JavaScript, CSS & HTML built
+on JetBrains' IntelliJ IDEA platform. WebStorm ships with pre-installed
+JavaScript plugins (such as for Node.js). It provides automatic code 
+completion, on-the-fly code analysis, refactoring support and VCS integration.

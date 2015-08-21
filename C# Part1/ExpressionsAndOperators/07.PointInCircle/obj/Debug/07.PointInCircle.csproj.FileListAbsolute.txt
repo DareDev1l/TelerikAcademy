@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\07.PointInCircle\bin\Debug\07.PointInCircle.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\07.PointInCircle\bin\Debug\07.PointInCircle.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\07.PointInCircle\bin\Debug\07.PointInCircle.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\07.PointInCircle\obj\Debug\07.PointInCircle.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\07.PointInCircle\obj\Debug\07.PointInCircle.pdb

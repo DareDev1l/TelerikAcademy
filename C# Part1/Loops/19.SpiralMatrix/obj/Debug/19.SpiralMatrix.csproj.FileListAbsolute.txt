@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.csprojResolveAssemblyReference.cache

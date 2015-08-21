@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\10.InsideCircleOusideRectangle\bin\Debug\10.InsideCircleOusideRectangle.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\10.InsideCircleOusideRectangle\bin\Debug\10.InsideCircleOusideRectangle.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\10.InsideCircleOusideRectangle\bin\Debug\10.InsideCircleOusideRectangle.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\10.InsideCircleOusideRectangle\obj\Debug\10.InsideCircleOusideRectangle.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\10.InsideCircleOusideRectangle\obj\Debug\10.InsideCircleOusideRectangle.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb

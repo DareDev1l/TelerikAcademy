@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\08.Isosceles Triangles\bin\Debug\08.Isosceles Triangles.exe.config
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\08.Isosceles Triangles\bin\Debug\08.Isosceles Triangles.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\08.Isosceles Triangles\bin\Debug\08.Isosceles Triangles.pdb
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\08.Isosceles Triangles\obj\Debug\08.Isosceles Triangles.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\08.Isosceles Triangles\obj\Debug\08.Isosceles Triangles.pdb

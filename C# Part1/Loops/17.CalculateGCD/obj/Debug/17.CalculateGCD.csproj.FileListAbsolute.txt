@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb

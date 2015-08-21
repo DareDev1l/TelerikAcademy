@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

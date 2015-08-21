@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\09.IntDoubleOrString\bin\Debug\09.IntDoubleOrString.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\09.IntDoubleOrString\bin\Debug\09.IntDoubleOrString.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\09.IntDoubleOrString\bin\Debug\09.IntDoubleOrString.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\09.IntDoubleOrString\obj\Debug\09.IntDoubleOrString.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\09.IntDoubleOrString\obj\Debug\09.IntDoubleOrString.pdb

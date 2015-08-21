@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\17.PrintThousand\bin\Debug\17.PrintThousand.exe.config
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\17.PrintThousand\bin\Debug\17.PrintThousand.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\17.PrintThousand\bin\Debug\17.PrintThousand.pdb
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\17.PrintThousand\obj\Debug\17.PrintThousand.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\17.PrintThousand\obj\Debug\17.PrintThousand.pdb
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\17.PrintThousand\obj\Debug\17.PrintThousand.csprojResolveAssemblyReference.cache

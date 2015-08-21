@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\01.NumbersToN\bin\Debug\01.NumbersToN.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\01.NumbersToN\bin\Debug\01.NumbersToN.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\01.NumbersToN\bin\Debug\01.NumbersToN.pdb
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\01.NumbersToN\obj\Debug\01.NumbersToN.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\01.NumbersToN\obj\Debug\01.NumbersToN.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\01.NumbersToN\obj\Debug\01.NumbersToN.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

@@ -1,0 +1,3 @@
+﻿C# is a programming language, while on the other side .NET is an application framework.
+.NET runs on the CLR (Common Language Runtime) and if a language can run on the CLR ,
+it can use .NET libraries as well.

@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\4.Hello-World\bin\Debug\4.Hello-World.exe.config
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\4.Hello-World\bin\Debug\4.Hello-World.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\4.Hello-World\bin\Debug\4.Hello-World.pdb
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\4.Hello-World\obj\Debug\4.Hello-World.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\4.Hello-World\obj\Debug\4.Hello-World.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\4.Hello-World\obj\Debug\4.Hello-World.pdb

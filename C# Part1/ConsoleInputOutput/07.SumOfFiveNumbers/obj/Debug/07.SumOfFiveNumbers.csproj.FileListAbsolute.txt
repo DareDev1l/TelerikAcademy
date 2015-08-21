@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConsoleInputOutput\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.pdb

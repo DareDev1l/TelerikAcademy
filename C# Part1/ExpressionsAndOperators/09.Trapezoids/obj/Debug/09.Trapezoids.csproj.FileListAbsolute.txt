@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

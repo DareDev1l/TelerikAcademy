@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+C:\Users\Tedko\Desktop\C# Part 1\ConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\02.MoonGravitation\bin\Debug\02.MoonGravitation.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\02.MoonGravitation\bin\Debug\02.MoonGravitation.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\02.MoonGravitation\bin\Debug\02.MoonGravitation.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\02.MoonGravitation\obj\Debug\02.MoonGravitation.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\02.MoonGravitation\obj\Debug\02.MoonGravitation.pdb

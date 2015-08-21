@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\11.RandomNumbers\bin\Debug\11.RandomNumbers.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\11.RandomNumbers\bin\Debug\11.RandomNumbers.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\11.RandomNumbers\bin\Debug\11.RandomNumbers.pdb
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\11.RandomNumbers\obj\Debug\11.RandomNumbers.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\11.RandomNumbers\obj\Debug\11.RandomNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\15.HexadecimalToDecimal\bin\Debug\15.HexadecimalToDecimal.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\15.HexadecimalToDecimal\bin\Debug\15.HexadecimalToDecimal.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\15.HexadecimalToDecimal\bin\Debug\15.HexadecimalToDecimal.pdb
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\15.HexadecimalToDecimal\obj\Debug\15.HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\15.HexadecimalToDecimal\obj\Debug\15.HexadecimalToDecimal.exe
+C:\Users\Tedko\Desktop\C# Part 1\6.Loops\15.HexadecimalToDecimal\obj\Debug\15.HexadecimalToDecimal.pdb

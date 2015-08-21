@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\09.VariableExchange\bin\Debug\09.VariableExchange.exe.config
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\09.VariableExchange\bin\Debug\09.VariableExchange.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\09.VariableExchange\bin\Debug\09.VariableExchange.pdb
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\09.VariableExchange\obj\Debug\09.VariableExchange.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\09.VariableExchange\obj\Debug\09.VariableExchange.pdb

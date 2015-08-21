@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\9.PrintSequence\bin\Debug\9.PrintSequence.exe.config
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\9.PrintSequence\bin\Debug\9.PrintSequence.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\9.PrintSequence\bin\Debug\9.PrintSequence.pdb
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\9.PrintSequence\obj\Debug\9.PrintSequence.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\9.PrintSequence\obj\Debug\9.PrintSequence.pdb

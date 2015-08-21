@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\07.Quotes\bin\Debug\07.Quotes.exe.config
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\07.Quotes\bin\Debug\07.Quotes.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\07.Quotes\bin\Debug\07.Quotes.pdb
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\07.Quotes\obj\Debug\07.Quotes.exe
+C:\Users\Tedko\Desktop\IntroC#\DataTypes-Variables-Homework\07.Quotes\obj\Debug\07.Quotes.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\13.CheckBitAtPosition\obj\Debug\13.CheckBitAtPosition.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\13.CheckBitAtPosition\obj\Debug\13.CheckBitAtPosition.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\7.PrintNames\bin\Debug\7.PrintNames.exe.config
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\7.PrintNames\bin\Debug\7.PrintNames.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\7.PrintNames\bin\Debug\7.PrintNames.pdb
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\7.PrintNames\obj\Debug\7.PrintNames.exe
+C:\Users\Tedko\Desktop\IntroC#\Homework-CSharp-Part1\7.PrintNames\obj\Debug\7.PrintNames.pdb

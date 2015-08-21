@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.pdb

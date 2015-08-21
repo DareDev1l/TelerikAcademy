@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\16.BitsExchangeAdvanced\bin\Debug\16.BitsExchangeAdvanced.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\16.BitsExchangeAdvanced\bin\Debug\16.BitsExchangeAdvanced.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\16.BitsExchangeAdvanced\bin\Debug\16.BitsExchangeAdvanced.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\16.BitsExchangeAdvanced\obj\Debug\16.BitsExchangeAdvanced.exe
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\16.BitsExchangeAdvanced\obj\Debug\16.BitsExchangeAdvanced.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ExpressionsAndOperators\16.BitsExchangeAdvanced\obj\Debug\16.BitsExchangeAdvanced.csprojResolveAssemblyReference.cache
