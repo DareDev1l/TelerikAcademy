@@ -1,0 +1,41 @@
+table {
+	padding: 10px;
+	font-size: 12px;
+	font-family: arial;
+}
+
+#content {
+	background-color: #666;
+}
+
+th {
+	text-align: left;
+	font-style: italic;
+	font-weight: normal;
+	color: white;
+}
+
+.red {
+	color: red;
+	font-weight: bolder;
+}
+
+.orange {
+	color: orange;
+}
+
+.yellow {
+	color: #FFFF19;
+}
+
+div {
+	padding: 5px;
+}
+
+td {
+	margin-left: 5px;
+}
+
+.gray {
+	color: #ccc;
+}

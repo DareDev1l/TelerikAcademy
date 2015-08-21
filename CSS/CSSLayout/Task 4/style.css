@@ -1,0 +1,58 @@
+
+
+.align {text-align:center;}
+
+a {color:darkred;
+	position:relative;
+
+}
+
+#lightblue {color:blue;
+			padding:5px;
+			background-color:lightblue;
+			position:relative;
+			left:40px;
+}
+
+.rightgray {color:white;
+			background-color:gray;
+			text-align:center;
+}
+
+.red {color:red;
+	  font-weight:bold;
+}
+li {position:relative;
+	right:38px;
+}
+
+#left {border:1px solid black;
+		width:170px;
+		float:left;
+		background-color:#C0C0C0;
+		position:relative;
+		right:8px;
+		bottom:8px;
+}
+
+#right {float:right;
+		border:3px solid gray;
+		
+}
+
+.gray {background-color:gray;
+	   display:inline-block;
+	   width:700px;
+}
+
+
+button {padding:1px;
+		background-color:white;
+		width:110px;
+}
+
+#centered {border: 1px solid gray;
+			
+}
+
+#search {width:30px;}

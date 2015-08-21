@@ -1,0 +1,33 @@
+table {
+	margin: 0;
+	font-family: "Times New Roman", Times, serif;
+}
+
+thead {
+	background-color: #00B92B;
+	color: white;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+table td{
+	border-right: 1px solid gray;
+}
+
+table:last-child{
+	border-bottom: 1px solid gray;
+	border-right: 0px none red;
+}
+
+table th{
+	border-bottom: 1px solid gray;
+	border-right: 1px solid gray;
+}
+
+tr:nth-of-type(2n+2) {
+	background-color: #ddd;
+}
+
+img {
+	margin-right: 8px;
+}

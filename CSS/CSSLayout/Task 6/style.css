@@ -1,0 +1,34 @@
+#left {float:left;}
+a {padding:10px;
+   background-color:#888888 ;
+   text-decoration:none;
+   color:#F8F8F8 ;
+}
+
+a:visited {text-decoration:none}
+
+html {background-color:#336699}
+
+nav {position:relative;
+	 top:20px;
+}
+
+#unique {background-color:#336699;
+		color:white;
+}
+
+#first {text-align:left;
+		font-size:x-large;
+		background-color:#66CCFF;
+		padding:5px;
+		color:white;
+}
+
+.normal {text-align:left;
+		font-size:x-large;
+		padding:5px;
+}
+
+iframe {position:relative;
+		top:60px;
+}

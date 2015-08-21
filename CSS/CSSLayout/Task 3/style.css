@@ -1,0 +1,33 @@
+button {background-color:#E00000 ;
+		border-radius:10px;
+		padding:5px;
+		width:60px;
+}
+
+div#firstline span {padding:10px;}
+
+h1 {color:#FFCC00;
+	position:relative;
+	left:15px;
+}
+
+html {background-color:rgb(88,88,88);}
+
+#newline {width:650px;
+		  word-wrap:break-word;
+		  position:relative;
+		  left:15px;
+}
+
+#white {color:white;}
+
+#whitebold {color:white;
+			font-size: x-large;
+}
+#wrapper {width:700px;
+		  border:1px solid orange;
+		  border-radius:15px;
+}
+#firstline {border-radius:15px;
+			background-color:#484848  ;
+}
