@@ -1,0 +1,7 @@
+C:\Users\Tedko\Desktop\CodeReformatting\CodeReformatting\bin\Debug\CodeReformatting.exe.config
+C:\Users\Tedko\Desktop\CodeReformatting\CodeReformatting\obj\Debug\CodeReformatting.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\CodeReformatting\CodeReformatting\bin\Debug\CodeReformatting.exe
+C:\Users\Tedko\Desktop\CodeReformatting\CodeReformatting\bin\Debug\CodeReformatting.pdb
+C:\Users\Tedko\Desktop\CodeReformatting\CodeReformatting\bin\Debug\PowerCollections.dll
+C:\Users\Tedko\Desktop\CodeReformatting\CodeReformatting\obj\Debug\CodeReformatting.exe
+C:\Users\Tedko\Desktop\CodeReformatting\CodeReformatting\obj\Debug\CodeReformatting.pdb

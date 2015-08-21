@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\Flow_Statements_Loops\LoopRefactor\bin\Debug\LoopRefactor.exe.config
+C:\Users\Tedko\Desktop\Flow_Statements_Loops\LoopRefactor\bin\Debug\LoopRefactor.exe
+C:\Users\Tedko\Desktop\Flow_Statements_Loops\LoopRefactor\bin\Debug\LoopRefactor.pdb
+C:\Users\Tedko\Desktop\Flow_Statements_Loops\LoopRefactor\obj\Debug\LoopRefactor.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\Flow_Statements_Loops\LoopRefactor\obj\Debug\LoopRefactor.exe
+C:\Users\Tedko\Desktop\Flow_Statements_Loops\LoopRefactor\obj\Debug\LoopRefactor.pdb

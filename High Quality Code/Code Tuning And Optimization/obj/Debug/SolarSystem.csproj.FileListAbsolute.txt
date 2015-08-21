@@ -1,0 +1,12 @@
+C:\Users\Tedko\Desktop\Homework\bin\Debug\SolarSystem.exe
+C:\Users\Tedko\Desktop\Homework\bin\Debug\SolarSystem.pdb
+C:\Users\Tedko\Desktop\Homework\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\Homework\obj\Debug\MainWindow.g.cs
+C:\Users\Tedko\Desktop\Homework\obj\Debug\App.g.cs
+C:\Users\Tedko\Desktop\Homework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tedko\Desktop\Homework\obj\Debug\SolarSystem_MarkupCompile.cache
+C:\Users\Tedko\Desktop\Homework\obj\Debug\SolarSystem_MarkupCompile.lref
+C:\Users\Tedko\Desktop\Homework\obj\Debug\MainWindow.baml
+C:\Users\Tedko\Desktop\Homework\obj\Debug\SolarSystem.g.resources
+C:\Users\Tedko\Desktop\Homework\obj\Debug\SolarSystem.exe
+C:\Users\Tedko\Desktop\Homework\obj\Debug\SolarSystem.pdb

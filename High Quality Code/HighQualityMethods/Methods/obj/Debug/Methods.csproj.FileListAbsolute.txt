@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\HighQualityMethods\Methods\bin\Debug\Methods.exe
+C:\Users\Tedko\Desktop\HighQualityMethods\Methods\bin\Debug\Methods.pdb
+C:\Users\Tedko\Desktop\HighQualityMethods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\HighQualityMethods\Methods\obj\Debug\Methods.exe
+C:\Users\Tedko\Desktop\HighQualityMethods\Methods\obj\Debug\Methods.pdb

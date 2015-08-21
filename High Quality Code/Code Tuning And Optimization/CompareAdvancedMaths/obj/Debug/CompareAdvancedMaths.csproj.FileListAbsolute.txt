@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\Homework\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.exe.config
+C:\Users\Tedko\Desktop\Homework\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\Homework\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.exe
+C:\Users\Tedko\Desktop\Homework\CompareAdvancedMaths\bin\Debug\CompareAdvancedMaths.pdb
+C:\Users\Tedko\Desktop\Homework\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.exe
+C:\Users\Tedko\Desktop\Homework\CompareAdvancedMaths\obj\Debug\CompareAdvancedMaths.pdb

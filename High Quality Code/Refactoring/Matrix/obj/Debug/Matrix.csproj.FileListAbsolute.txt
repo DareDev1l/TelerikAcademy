@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix\bin\Debug\Matrix.exe
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix\obj\Debug\Matrix.exe
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix\obj\Debug\Matrix.pdb

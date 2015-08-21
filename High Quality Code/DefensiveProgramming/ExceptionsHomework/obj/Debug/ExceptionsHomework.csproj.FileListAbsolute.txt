@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\DefensiveProgramming\ExceptionsHomework\bin\Debug\ExceptionsHomework.exe.config
+C:\Users\Tedko\Desktop\DefensiveProgramming\ExceptionsHomework\bin\Debug\ExceptionsHomework.exe
+C:\Users\Tedko\Desktop\DefensiveProgramming\ExceptionsHomework\bin\Debug\ExceptionsHomework.pdb
+C:\Users\Tedko\Desktop\DefensiveProgramming\ExceptionsHomework\obj\Debug\ExceptionsHomework.exe
+C:\Users\Tedko\Desktop\DefensiveProgramming\ExceptionsHomework\obj\Debug\ExceptionsHomework.pdb
+C:\Users\Tedko\Desktop\DefensiveProgramming\ExceptionsHomework\obj\Debug\ExceptionsHomework.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix.Tests\bin\Debug\Matrix.Tests.dll
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix.Tests\bin\Debug\Matrix.Tests.pdb
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix.Tests\bin\Debug\Matrix.exe
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix.Tests\bin\Debug\Matrix.pdb
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix.Tests\obj\Debug\Matrix.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix.Tests\obj\Debug\Matrix.Tests.dll
+C:\Users\Tedko\Desktop\13. Refactoring\Matrix.Tests\obj\Debug\Matrix.Tests.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\DefensiveProgramming\Assertions\bin\Debug\Assertions.exe.config
+C:\Users\Tedko\Desktop\DefensiveProgramming\Assertions\bin\Debug\Assertions.exe
+C:\Users\Tedko\Desktop\DefensiveProgramming\Assertions\bin\Debug\Assertions.pdb
+C:\Users\Tedko\Desktop\DefensiveProgramming\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\DefensiveProgramming\Assertions\obj\Debug\Assertions.exe
+C:\Users\Tedko\Desktop\DefensiveProgramming\Assertions\obj\Debug\Assertions.pdb
