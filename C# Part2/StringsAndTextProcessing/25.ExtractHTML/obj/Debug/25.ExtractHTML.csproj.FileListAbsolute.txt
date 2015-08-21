@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\25.ExtractHTML\bin\Debug\25.ExtractHTML.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\25.ExtractHTML\bin\Debug\25.ExtractHTML.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\25.ExtractHTML\bin\Debug\25.ExtractHTML.pdb
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\25.ExtractHTML\obj\Debug\25.ExtractHTML.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\25.ExtractHTML\obj\Debug\25.ExtractHTML.pdb

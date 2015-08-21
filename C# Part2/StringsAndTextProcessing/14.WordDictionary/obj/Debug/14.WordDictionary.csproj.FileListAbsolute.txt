@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\14.WordDictionary\bin\Debug\14.WordDictionary.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\14.WordDictionary\bin\Debug\14.WordDictionary.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\14.WordDictionary\bin\Debug\14.WordDictionary.pdb
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\14.WordDictionary\obj\Debug\14.WordDictionary.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\14.WordDictionary\obj\Debug\14.WordDictionary.pdb

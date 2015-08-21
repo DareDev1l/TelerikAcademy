@@ -1,0 +1,1 @@
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\06.MatrixClass\bin\Debug\06.MatrixClass.exe.config

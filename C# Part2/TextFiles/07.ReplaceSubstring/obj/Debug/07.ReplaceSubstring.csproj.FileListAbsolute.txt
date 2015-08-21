@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\07.ReplaceSubstring\bin\Debug\07.ReplaceSubstring.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\07.ReplaceSubstring\bin\Debug\07.ReplaceSubstring.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\07.ReplaceSubstring\bin\Debug\07.ReplaceSubstring.pdb
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\07.ReplaceSubstring\obj\Debug\07.ReplaceSubstring.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\07.ReplaceSubstring\obj\Debug\07.ReplaceSubstring.pdb

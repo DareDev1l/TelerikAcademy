@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\ClassesAndObjects\02.RandomNumbers\bin\Debug\02.RandomNumbers.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\ClassesAndObjects\02.RandomNumbers\bin\Debug\02.RandomNumbers.exe
+C:\Users\Tedko\Desktop\C# Part 2\ClassesAndObjects\02.RandomNumbers\bin\Debug\02.RandomNumbers.pdb
+C:\Users\Tedko\Desktop\C# Part 2\ClassesAndObjects\02.RandomNumbers\obj\Debug\02.RandomNumbers.exe
+C:\Users\Tedko\Desktop\C# Part 2\ClassesAndObjects\02.RandomNumbers\obj\Debug\02.RandomNumbers.pdb

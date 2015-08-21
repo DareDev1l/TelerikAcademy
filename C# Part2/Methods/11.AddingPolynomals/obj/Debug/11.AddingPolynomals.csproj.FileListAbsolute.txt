@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\Methods\11.AddingPolynomals\bin\Debug\11.AddingPolynomals.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\Methods\11.AddingPolynomals\bin\Debug\11.AddingPolynomals.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\11.AddingPolynomals\bin\Debug\11.AddingPolynomals.pdb
+C:\Users\Tedko\Desktop\C# Part 2\Methods\11.AddingPolynomals\obj\Debug\11.AddingPolynomals.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\11.AddingPolynomals\obj\Debug\11.AddingPolynomals.pdb

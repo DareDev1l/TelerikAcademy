@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\Methods\13.SolveTasks\bin\Debug\13.SolveTasks.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\Methods\13.SolveTasks\bin\Debug\13.SolveTasks.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\13.SolveTasks\bin\Debug\13.SolveTasks.pdb
+C:\Users\Tedko\Desktop\C# Part 2\Methods\13.SolveTasks\obj\Debug\13.SolveTasks.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\13.SolveTasks\obj\Debug\13.SolveTasks.pdb

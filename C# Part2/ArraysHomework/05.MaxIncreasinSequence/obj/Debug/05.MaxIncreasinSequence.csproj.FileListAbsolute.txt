@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\05.MaxIncreasinSequence\bin\Debug\05.MaxIncreasinSequence.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\05.MaxIncreasinSequence\bin\Debug\05.MaxIncreasinSequence.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\05.MaxIncreasinSequence\bin\Debug\05.MaxIncreasinSequence.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\05.MaxIncreasinSequence\obj\Debug\05.MaxIncreasinSequence.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\05.MaxIncreasinSequence\obj\Debug\05.MaxIncreasinSequence.pdb

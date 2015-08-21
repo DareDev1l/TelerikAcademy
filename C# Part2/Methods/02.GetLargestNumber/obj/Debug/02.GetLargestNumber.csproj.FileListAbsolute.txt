@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.pdb
+C:\Users\Tedko\Desktop\C# Part 2\Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.pdb

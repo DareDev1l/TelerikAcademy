@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\04.CompareFiles\bin\Debug\04.CompareFiles.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\04.CompareFiles\obj\Debug\04.CompareFiles.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\04.CompareFiles\bin\Debug\04.CompareFiles.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\04.CompareFiles\bin\Debug\04.CompareFiles.pdb
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\04.CompareFiles\obj\Debug\04.CompareFiles.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\04.CompareFiles\obj\Debug\04.CompareFiles.pdb

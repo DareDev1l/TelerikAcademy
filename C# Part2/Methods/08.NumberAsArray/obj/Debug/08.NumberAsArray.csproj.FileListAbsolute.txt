@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.pdb
+C:\Users\Tedko\Desktop\C# Part 2\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.pdb

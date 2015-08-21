@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\07.Encode\bin\Debug\07.Encode.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\07.Encode\bin\Debug\07.Encode.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\07.Encode\bin\Debug\07.Encode.pdb
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\07.Encode\obj\Debug\07.Encode.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\07.Encode\obj\Debug\07.Encode.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\05.MaxArea\bin\Debug\05.MaxArea.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\05.MaxArea\obj\Debug\05.MaxArea.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\05.MaxArea\bin\Debug\05.MaxArea.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\05.MaxArea\bin\Debug\05.MaxArea.pdb
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\05.MaxArea\obj\Debug\05.MaxArea.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\05.MaxArea\obj\Debug\05.MaxArea.pdb

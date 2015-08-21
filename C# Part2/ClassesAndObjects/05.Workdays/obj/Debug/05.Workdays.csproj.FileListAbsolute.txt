@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\ClassesAndObjects\05.Workdays\bin\Debug\05.Workdays.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\ClassesAndObjects\05.Workdays\obj\Debug\05.Workdays.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\ClassesAndObjects\05.Workdays\bin\Debug\05.Workdays.exe
+C:\Users\Tedko\Desktop\C# Part 2\ClassesAndObjects\05.Workdays\bin\Debug\05.Workdays.pdb
+C:\Users\Tedko\Desktop\C# Part 2\ClassesAndObjects\05.Workdays\obj\Debug\05.Workdays.exe
+C:\Users\Tedko\Desktop\C# Part 2\ClassesAndObjects\05.Workdays\obj\Debug\05.Workdays.pdb

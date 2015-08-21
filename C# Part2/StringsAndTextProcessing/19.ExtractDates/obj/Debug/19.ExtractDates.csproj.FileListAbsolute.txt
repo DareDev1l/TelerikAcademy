@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.pdb
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\19.ExtractDates\obj\Debug\19.ExtractDates.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\19.ExtractDates\obj\Debug\19.ExtractDates.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\19.ExtractDates\obj\Debug\19.ExtractDates.pdb

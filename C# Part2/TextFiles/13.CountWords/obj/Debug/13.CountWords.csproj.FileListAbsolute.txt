@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\13.CountWords\bin\Debug\13.CountWords.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\13.CountWords\bin\Debug\13.CountWords.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\13.CountWords\bin\Debug\13.CountWords.pdb
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\13.CountWords\obj\Debug\13.CountWords.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\13.CountWords\obj\Debug\13.CountWords.pdb

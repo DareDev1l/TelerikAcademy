@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\11.PrefixDelete\bin\Debug\11.PrefixDelete.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\11.PrefixDelete\bin\Debug\11.PrefixDelete.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\11.PrefixDelete\bin\Debug\11.PrefixDelete.pdb
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\11.PrefixDelete\obj\Debug\11.PrefixDelete.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\11.PrefixDelete\obj\Debug\11.PrefixDelete.pdb

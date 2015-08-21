@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.pdb
+C:\Users\Tedko\Desktop\C# Part 2\Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.pdb

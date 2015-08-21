@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\05.ParseTags\bin\Debug\05.ParseTags.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\05.ParseTags\bin\Debug\05.ParseTags.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\05.ParseTags\bin\Debug\05.ParseTags.pdb
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\05.ParseTags\obj\Debug\05.ParseTags.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\05.ParseTags\obj\Debug\05.ParseTags.pdb
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\05.ParseTags\obj\Debug\05.ParseTags.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\10.UnicodeChars\bin\Debug\10.UnicodeChars.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\10.UnicodeChars\bin\Debug\10.UnicodeChars.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\10.UnicodeChars\bin\Debug\10.UnicodeChars.pdb
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\10.UnicodeChars\obj\Debug\10.UnicodeChars.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\10.UnicodeChars\obj\Debug\10.UnicodeChars.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\10.UnicodeChars\obj\Debug\10.UnicodeChars.pdb

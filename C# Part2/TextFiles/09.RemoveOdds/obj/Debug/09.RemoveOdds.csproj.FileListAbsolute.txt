@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\09.RemoveOdds\bin\Debug\09.RemoveOdds.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\09.RemoveOdds\bin\Debug\09.RemoveOdds.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\09.RemoveOdds\bin\Debug\09.RemoveOdds.pdb
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\09.RemoveOdds\obj\Debug\09.RemoveOdds.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\09.RemoveOdds\obj\Debug\09.RemoveOdds.pdb

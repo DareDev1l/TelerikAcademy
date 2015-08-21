@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.pdb
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.pdb

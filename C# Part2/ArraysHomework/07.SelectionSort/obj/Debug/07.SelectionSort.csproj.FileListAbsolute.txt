@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\07.SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

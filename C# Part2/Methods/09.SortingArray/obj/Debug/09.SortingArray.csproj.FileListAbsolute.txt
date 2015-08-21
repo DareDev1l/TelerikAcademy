@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\Methods\09.SortingArray\bin\Debug\09.SortingArray.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\Methods\09.SortingArray\bin\Debug\09.SortingArray.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\09.SortingArray\bin\Debug\09.SortingArray.pdb
+C:\Users\Tedko\Desktop\C# Part 2\Methods\09.SortingArray\obj\Debug\09.SortingArray.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\09.SortingArray\obj\Debug\09.SortingArray.pdb

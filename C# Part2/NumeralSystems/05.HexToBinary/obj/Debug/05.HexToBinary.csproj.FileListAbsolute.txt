@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\05.HexToBinary\bin\Debug\05.HexToBinary.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\05.HexToBinary\bin\Debug\05.HexToBinary.exe
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\05.HexToBinary\bin\Debug\05.HexToBinary.pdb
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\05.HexToBinary\obj\Debug\05.HexToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\05.HexToBinary\obj\Debug\05.HexToBinary.exe
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\05.HexToBinary\obj\Debug\05.HexToBinary.pdb

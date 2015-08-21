@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\Methods\12.SubtractPolynomials\bin\Debug\12.SubtractPolynomials.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\Methods\12.SubtractPolynomials\bin\Debug\12.SubtractPolynomials.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\12.SubtractPolynomials\bin\Debug\12.SubtractPolynomials.pdb
+C:\Users\Tedko\Desktop\C# Part 2\Methods\12.SubtractPolynomials\obj\Debug\12.SubtractPolynomials.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\12.SubtractPolynomials\obj\Debug\12.SubtractPolynomials.pdb

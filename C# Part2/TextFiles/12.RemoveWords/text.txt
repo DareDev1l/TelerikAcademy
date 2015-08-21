@@ -1,0 +1,1 @@
+Microsoft announced its next generation PHP compiler today and talked about CLR.

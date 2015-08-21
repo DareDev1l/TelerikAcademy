@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.pdb
+C:\Users\Tedko\Desktop\C# Part 2\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.pdb

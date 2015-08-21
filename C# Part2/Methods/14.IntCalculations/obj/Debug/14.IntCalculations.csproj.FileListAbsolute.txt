@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\Methods\14.IntCalculations\bin\Debug\14.IntCalculations.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\Methods\14.IntCalculations\bin\Debug\14.IntCalculations.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\14.IntCalculations\bin\Debug\14.IntCalculations.pdb
+C:\Users\Tedko\Desktop\C# Part 2\Methods\14.IntCalculations\obj\Debug\14.IntCalculations.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\14.IntCalculations\obj\Debug\14.IntCalculations.pdb

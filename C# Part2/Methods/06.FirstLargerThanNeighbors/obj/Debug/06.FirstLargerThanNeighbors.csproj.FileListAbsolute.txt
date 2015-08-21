@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\Methods\06.FirstLargerThanNeighbors\bin\Debug\06.FirstLargerThanNeighbors.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\Methods\06.FirstLargerThanNeighbors\bin\Debug\06.FirstLargerThanNeighbors.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\06.FirstLargerThanNeighbors\bin\Debug\06.FirstLargerThanNeighbors.pdb
+C:\Users\Tedko\Desktop\C# Part 2\Methods\06.FirstLargerThanNeighbors\obj\Debug\06.FirstLargerThanNeighbors.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\Methods\06.FirstLargerThanNeighbors\obj\Debug\06.FirstLargerThanNeighbors.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\06.FirstLargerThanNeighbors\obj\Debug\06.FirstLargerThanNeighbors.pdb

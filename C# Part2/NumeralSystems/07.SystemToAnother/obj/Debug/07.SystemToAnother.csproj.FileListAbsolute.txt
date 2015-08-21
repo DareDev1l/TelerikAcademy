@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\07.SystemToAnother\bin\Debug\07.SystemToAnother.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\07.SystemToAnother\bin\Debug\07.SystemToAnother.exe
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\07.SystemToAnother\bin\Debug\07.SystemToAnother.pdb
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\07.SystemToAnother\obj\Debug\07.SystemToAnother.exe
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\07.SystemToAnother\obj\Debug\07.SystemToAnother.pdb

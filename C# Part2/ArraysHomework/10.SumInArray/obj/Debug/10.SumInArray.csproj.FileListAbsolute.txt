@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\10.SumInArray\bin\Debug\10.SumInArray.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\10.SumInArray\bin\Debug\10.SumInArray.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\10.SumInArray\bin\Debug\10.SumInArray.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\10.SumInArray\obj\Debug\10.SumInArray.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\10.SumInArray\obj\Debug\10.SumInArray.pdb

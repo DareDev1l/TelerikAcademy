@@ -1,0 +1,1 @@
+Microsoft announced its next generation CLR compiler today and talked about its CLR .

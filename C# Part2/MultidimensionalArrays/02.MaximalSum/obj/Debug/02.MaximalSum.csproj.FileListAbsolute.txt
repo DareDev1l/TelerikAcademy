@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

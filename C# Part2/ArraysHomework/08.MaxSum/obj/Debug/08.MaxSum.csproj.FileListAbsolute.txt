@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\08.MaxSum\bin\Debug\08.MaxSum.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\08.MaxSum\bin\Debug\08.MaxSum.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\08.MaxSum\bin\Debug\08.MaxSum.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\08.MaxSum\obj\Debug\08.MaxSum.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\08.MaxSum\obj\Debug\08.MaxSum.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\08.MaxSum\obj\Debug\08.MaxSum.csprojResolveAssemblyReference.cache

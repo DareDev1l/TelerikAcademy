@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\04.MaxSequence\bin\Debug\04.MaxSequence.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\04.MaxSequence\bin\Debug\04.MaxSequence.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\04.MaxSequence\bin\Debug\04.MaxSequence.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\04.MaxSequence\obj\Debug\04.MaxSequence.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\04.MaxSequence\obj\Debug\04.MaxSequence.pdb

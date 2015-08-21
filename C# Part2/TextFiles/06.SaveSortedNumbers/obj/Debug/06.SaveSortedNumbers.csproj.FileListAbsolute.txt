@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\06.SaveSortedNumbers\bin\Debug\06.SaveSortedNumbers.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\06.SaveSortedNumbers\bin\Debug\06.SaveSortedNumbers.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\06.SaveSortedNumbers\bin\Debug\06.SaveSortedNumbers.pdb
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\06.SaveSortedNumbers\obj\Debug\06.SaveSortedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\06.SaveSortedNumbers\obj\Debug\06.SaveSortedNumbers.exe
+C:\Users\Tedko\Desktop\C# Part 2\TextFiles\06.SaveSortedNumbers\obj\Debug\06.SaveSortedNumbers.pdb

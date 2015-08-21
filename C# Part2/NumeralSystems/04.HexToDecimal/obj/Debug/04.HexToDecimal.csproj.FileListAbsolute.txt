@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\04.HexToDecimal\bin\Debug\04.HexToDecimal.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\04.HexToDecimal\bin\Debug\04.HexToDecimal.exe
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\04.HexToDecimal\bin\Debug\04.HexToDecimal.pdb
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\04.HexToDecimal\obj\Debug\04.HexToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\04.HexToDecimal\obj\Debug\04.HexToDecimal.exe
+C:\Users\Tedko\Desktop\C# Part 2\NumeralSystems\04.HexToDecimal\obj\Debug\04.HexToDecimal.pdb

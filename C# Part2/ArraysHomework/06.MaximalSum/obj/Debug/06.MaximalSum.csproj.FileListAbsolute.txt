@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\06.MaximalSum\bin\Debug\06.MaximalSum.exe.config
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\06.MaximalSum\bin\Debug\06.MaximalSum.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\06.MaximalSum\bin\Debug\06.MaximalSum.pdb
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\06.MaximalSum\obj\Debug\06.MaximalSum.exe
+C:\Users\Tedko\Desktop\C# Part 1\ArraysHomework\06.MaximalSum\obj\Debug\06.MaximalSum.pdb

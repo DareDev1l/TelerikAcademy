@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.pdb
+C:\Users\Tedko\Desktop\C# Part 2\Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.exe
+C:\Users\Tedko\Desktop\C# Part 2\Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.pdb

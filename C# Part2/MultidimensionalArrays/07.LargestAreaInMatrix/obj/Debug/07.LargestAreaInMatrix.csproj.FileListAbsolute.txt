@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.exe
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\07.LargestAreaInMatrix\bin\Debug\07.LargestAreaInMatrix.pdb
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.exe
+C:\Users\Tedko\Desktop\C# Part 2\MultidimensionalArrays\07.LargestAreaInMatrix\obj\Debug\07.LargestAreaInMatrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\18.ExtraxtEmails\bin\Debug\18.ExtraxtEmails.exe.config
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\18.ExtraxtEmails\bin\Debug\18.ExtraxtEmails.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\18.ExtraxtEmails\bin\Debug\18.ExtraxtEmails.pdb
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\18.ExtraxtEmails\obj\Debug\18.ExtraxtEmails.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\18.ExtraxtEmails\obj\Debug\18.ExtraxtEmails.exe
+C:\Users\Tedko\Desktop\C# Part 2\StringsAndTextProcessing\18.ExtraxtEmails\obj\Debug\18.ExtraxtEmails.pdb
