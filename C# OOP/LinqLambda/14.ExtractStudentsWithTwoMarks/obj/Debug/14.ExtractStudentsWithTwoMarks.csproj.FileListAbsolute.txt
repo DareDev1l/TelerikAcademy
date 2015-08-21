@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\OOP\LinqLambda\14.ExtractStudentsWithTwoMarks\bin\Debug\14.ExtractStudentsWithTwoMarks.exe.config
+C:\Users\Tedko\Desktop\OOP\LinqLambda\14.ExtractStudentsWithTwoMarks\obj\Debug\14.ExtractStudentsWithTwoMarks.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\OOP\LinqLambda\14.ExtractStudentsWithTwoMarks\bin\Debug\14.ExtractStudentsWithTwoMarks.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\14.ExtractStudentsWithTwoMarks\bin\Debug\14.ExtractStudentsWithTwoMarks.pdb
+C:\Users\Tedko\Desktop\OOP\LinqLambda\14.ExtractStudentsWithTwoMarks\obj\Debug\14.ExtractStudentsWithTwoMarks.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\14.ExtractStudentsWithTwoMarks\obj\Debug\14.ExtractStudentsWithTwoMarks.pdb

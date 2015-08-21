@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\OOP\LinqLambda\03.FirstBeforeLast\bin\Debug\03.FirstBeforeLast.exe.config
+C:\Users\Tedko\Desktop\OOP\LinqLambda\03.FirstBeforeLast\obj\Debug\03.FirstBeforeLast.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\OOP\LinqLambda\03.FirstBeforeLast\bin\Debug\03.FirstBeforeLast.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\03.FirstBeforeLast\bin\Debug\03.FirstBeforeLast.pdb
+C:\Users\Tedko\Desktop\OOP\LinqLambda\03.FirstBeforeLast\obj\Debug\03.FirstBeforeLast.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\03.FirstBeforeLast\obj\Debug\03.FirstBeforeLast.pdb

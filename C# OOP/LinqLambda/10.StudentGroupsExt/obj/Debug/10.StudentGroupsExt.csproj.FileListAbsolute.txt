@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\OOP\LinqLambda\10.StudentGroupsExt\bin\Debug\10.StudentGroupsExt.exe.config
+C:\Users\Tedko\Desktop\OOP\LinqLambda\10.StudentGroupsExt\bin\Debug\10.StudentGroupsExt.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\10.StudentGroupsExt\bin\Debug\10.StudentGroupsExt.pdb
+C:\Users\Tedko\Desktop\OOP\LinqLambda\10.StudentGroupsExt\obj\Debug\10.StudentGroupsExt.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\10.StudentGroupsExt\obj\Debug\10.StudentGroupsExt.pdb

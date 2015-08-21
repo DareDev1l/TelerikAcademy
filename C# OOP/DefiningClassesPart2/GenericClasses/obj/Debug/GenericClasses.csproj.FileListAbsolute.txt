@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\GenericClasses\bin\Debug\GenericClasses.exe.config
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\GenericClasses\bin\Debug\GenericClasses.exe
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\GenericClasses\bin\Debug\GenericClasses.pdb
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\GenericClasses\obj\Debug\GenericClasses.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\GenericClasses\obj\Debug\GenericClasses.exe
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\GenericClasses\obj\Debug\GenericClasses.pdb

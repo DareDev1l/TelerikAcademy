@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\DefiningClasses2\bin\Debug\DefiningClasses2.exe.config
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\DefiningClasses2\bin\Debug\DefiningClasses2.exe
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\DefiningClasses2\bin\Debug\DefiningClasses2.pdb
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\DefiningClasses2\obj\Debug\DefiningClasses2.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\DefiningClasses2\obj\Debug\DefiningClasses2.exe
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\DefiningClasses2\obj\Debug\DefiningClasses2.pdb

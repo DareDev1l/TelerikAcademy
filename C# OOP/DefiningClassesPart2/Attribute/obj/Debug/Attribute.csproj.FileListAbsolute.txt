@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\Attribute\bin\Debug\Attribute.exe.config
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\Attribute\bin\Debug\Attribute.exe
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\Attribute\bin\Debug\Attribute.pdb
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\Attribute\obj\Debug\Attribute.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\Attribute\obj\Debug\Attribute.exe
+C:\Users\Tedko\Desktop\OOP\DefiningClasses2\Attribute\obj\Debug\Attribute.pdb

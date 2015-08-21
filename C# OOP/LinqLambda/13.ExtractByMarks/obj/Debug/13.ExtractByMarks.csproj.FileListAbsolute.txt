@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\OOP\LinqLambda\13.ExtractByMarks\bin\Debug\13.ExtractByMarks.exe.config
+C:\Users\Tedko\Desktop\OOP\LinqLambda\13.ExtractByMarks\bin\Debug\13.ExtractByMarks.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\13.ExtractByMarks\bin\Debug\13.ExtractByMarks.pdb
+C:\Users\Tedko\Desktop\OOP\LinqLambda\13.ExtractByMarks\obj\Debug\13.ExtractByMarks.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\13.ExtractByMarks\obj\Debug\13.ExtractByMarks.pdb

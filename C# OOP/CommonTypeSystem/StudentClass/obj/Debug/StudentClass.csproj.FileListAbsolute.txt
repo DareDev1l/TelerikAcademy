@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\OOP\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.exe.config
+C:\Users\Tedko\Desktop\OOP\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.exe
+C:\Users\Tedko\Desktop\OOP\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.pdb
+C:\Users\Tedko\Desktop\OOP\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\OOP\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.exe
+C:\Users\Tedko\Desktop\OOP\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\OOP\OOPPart2\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Tedko\Desktop\OOP\OOPPart2\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\OOP\OOPPart2\Shapes\bin\Debug\Shapes.exe
+C:\Users\Tedko\Desktop\OOP\OOPPart2\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Tedko\Desktop\OOP\OOPPart2\Shapes\obj\Debug\Shapes.exe
+C:\Users\Tedko\Desktop\OOP\OOPPart2\Shapes\obj\Debug\Shapes.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\OOP\LinqLambda\19.GroupByGroupName\bin\Debug\19.GroupByGroupName.exe.config
+C:\Users\Tedko\Desktop\OOP\LinqLambda\19.GroupByGroupName\bin\Debug\19.GroupByGroupName.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\19.GroupByGroupName\bin\Debug\19.GroupByGroupName.pdb
+C:\Users\Tedko\Desktop\OOP\LinqLambda\19.GroupByGroupName\obj\Debug\19.GroupByGroupName.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\19.GroupByGroupName\obj\Debug\19.GroupByGroupName.pdb

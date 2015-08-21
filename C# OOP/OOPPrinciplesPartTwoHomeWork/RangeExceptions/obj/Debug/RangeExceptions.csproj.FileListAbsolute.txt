@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\OOP\OOPPart2\RangeExceptions\bin\Debug\RangeExceptions.exe.config
+C:\Users\Tedko\Desktop\OOP\OOPPart2\RangeExceptions\obj\Debug\RangeExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\OOP\OOPPart2\RangeExceptions\bin\Debug\RangeExceptions.exe
+C:\Users\Tedko\Desktop\OOP\OOPPart2\RangeExceptions\bin\Debug\RangeExceptions.pdb
+C:\Users\Tedko\Desktop\OOP\OOPPart2\RangeExceptions\obj\Debug\RangeExceptions.exe
+C:\Users\Tedko\Desktop\OOP\OOPPart2\RangeExceptions\obj\Debug\RangeExceptions.pdb

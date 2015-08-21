@@ -1,0 +1,6 @@
+C:\Users\Tedko\Desktop\OOP\LinqLambda\06.DivisibleBy3And7\bin\Debug\06.DivisibleBy3And7.exe.config
+C:\Users\Tedko\Desktop\OOP\LinqLambda\06.DivisibleBy3And7\bin\Debug\06.DivisibleBy3And7.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\06.DivisibleBy3And7\bin\Debug\06.DivisibleBy3And7.pdb
+C:\Users\Tedko\Desktop\OOP\LinqLambda\06.DivisibleBy3And7\obj\Debug\06.DivisibleBy3And7.csprojResolveAssemblyReference.cache
+C:\Users\Tedko\Desktop\OOP\LinqLambda\06.DivisibleBy3And7\obj\Debug\06.DivisibleBy3And7.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\06.DivisibleBy3And7\obj\Debug\06.DivisibleBy3And7.pdb

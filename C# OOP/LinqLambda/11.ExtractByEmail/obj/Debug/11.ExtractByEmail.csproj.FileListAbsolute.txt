@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\OOP\LinqLambda\11.ExtractByEmail\bin\Debug\11.ExtractByEmail.exe.config
+C:\Users\Tedko\Desktop\OOP\LinqLambda\11.ExtractByEmail\bin\Debug\11.ExtractByEmail.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\11.ExtractByEmail\bin\Debug\11.ExtractByEmail.pdb
+C:\Users\Tedko\Desktop\OOP\LinqLambda\11.ExtractByEmail\obj\Debug\11.ExtractByEmail.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\11.ExtractByEmail\obj\Debug\11.ExtractByEmail.pdb

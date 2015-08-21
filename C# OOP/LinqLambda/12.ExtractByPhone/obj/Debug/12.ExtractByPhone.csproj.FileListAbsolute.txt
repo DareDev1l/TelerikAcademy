@@ -1,0 +1,5 @@
+C:\Users\Tedko\Desktop\OOP\LinqLambda\12.ExtractByPhone\bin\Debug\12.ExtractByPhone.exe.config
+C:\Users\Tedko\Desktop\OOP\LinqLambda\12.ExtractByPhone\bin\Debug\12.ExtractByPhone.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\12.ExtractByPhone\bin\Debug\12.ExtractByPhone.pdb
+C:\Users\Tedko\Desktop\OOP\LinqLambda\12.ExtractByPhone\obj\Debug\12.ExtractByPhone.exe
+C:\Users\Tedko\Desktop\OOP\LinqLambda\12.ExtractByPhone\obj\Debug\12.ExtractByPhone.pdb
