@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Registration Form</title>
+  <style>
+  .Footer
+  {
+    text-align:center;
+    background-color:skyblue;
+  }
+</style>
+</head>
+
+<body>
+
+<form action="#">
+  <table border="1" cellspacing="0">
+    <colgroup>
+      <col width="200px">
+      <col width="400px">
+    </colgroup>
+
+  <tbody>
+    <tr>
+      <th>
+        Last name
+      </th>
+      <td>
+        <input type="text" size="60">
+      </td>
+    </tr>
+
+    <tr>
+      <th>
+        First name
+      </th>
+      <td>
+        <input type="text" size="60">
+      </td>
+    </tr>
+
+    <tr>
+      <th>
+        Address
+      </th>
+      <td>
+        <textarea rows="4" cols="45">
+        </textarea>
+      </td>
+    </tr>
+
+    <tr>
+      <th>
+        City
+      </th>
+      <td>
+        <input type="text" size="47">
+        <span>State</span>
+        <input type="text" size="5">
+      </td>
+    </tr>
+
+    <tr>
+      <th>
+        Zip/Postal code
+      </th>
+      <td>
+        <input type="text" size="10">
+      </td>
+    </tr>
+
+    <tr>
+      <th>
+        Country
+      </th>
+      <td>
+        <select name="country" id="cn" style="min-width:60%">
+          <option value="BG">Bulgaria</option>
+          <option value="EN">England</option>
+          <option value="FR">France</option>
+          <option value="GER">Germany</option>
+          <option value="other">Other</option>
+        </select>
+      </td>
+    </tr>
+
+    <tr>
+      <th>
+        Phone(country, code, area code, number)
+      </th>
+      <td>
+        <span>(+</span>
+        <input type="text" size="6" maxlength="3">
+        <span>)</span>
+        <input type="text" size="6" maxlength="3">
+        <input type="text" size="25" maxlength="10">
+      </td>
+    </tr>
+
+    <tr>
+      <th>
+        E-mail
+      </th> 
+      <td>
+        <input type="email" style="min-width:95%">
+      </td>
+    </tr>
+
+    <tr>
+      <th>
+        Birth date
+      </th>
+      <td>
+        <input type="date" style="min-width:55%" >
+      </td>
+    </tr>
+    <tr>
+      <th>
+        Sex
+      </th>
+      <td>
+        <select name="country" id="cn">
+          <option value="Male">Male</option>
+          <option value="Female">Female</option>
+          <option value="Animal">Animal</option>
+          <option value="Player">Every day</option>
+        </select>
+      </td>
+    </tr>
+
+    <tr>
+      <th>
+        Starting date
+      </th>
+      <td>
+        <input type="radio" name="date" value="spring">Spring 2015
+        <input type="radio" name="date" value="summer">Summer 2015
+      </td>
+    </tr>
+
+    <tr>
+      <th>
+        Comments/Questions
+      </th>
+      <td>
+        <textarea rows="5" cols="45">
+        </textarea>
+      </td>
+    </tr>
+  </tbody>
+    <tfoot class="Footer">
+      <tr>
+        <td colspan="2">
+          &nbsp;
+          <input type="submit" value="Submit">
+          <input type="reset" value="Clear">
+        </td>
+      </tr>
+
+    </tfoot>
+  </table>
+</form>
+
+</body>
+</html>

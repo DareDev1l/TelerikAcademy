@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Grid Component*</title>
+	<style>
+	thead, tfoot
+	{
+		background-color: #E2E4E6;
+	}
+	table
+	{
+		border-style: solid;
+		border-color: #6B6B6B;
+		border-width: 2px;
+		border-radius: 6px;
+		border: 1px solid #6B6B6B;
+		font-family: arial;
+		font-size: 15px;
+	}
+	tfoot input
+	{
+		margin-left: 10px;
+	}
+	tfoot span
+	{
+		margin-left: 20px;
+	}
+	thead td
+	{
+		padding-top: 1px;
+		padding-bottom: 1px;
+		padding: 10px;
+	}
+	th, td 
+	{
+    	border: 1px solid  #6B6B6B;
+	}
+	#counter
+	{
+		position: fixed;
+		right: 275px;
+	}
+	</style>
+</head>
+<body>
+	
+<table cellspacing="0" cellpadding="7px">
+	<colgroup>
+		<col width="60px">
+		<col width="300px">
+		<col width="200px">
+		<col width="200px">
+		<col width="200px">
+		<col width="100px">
+
+	</colgroup>
+	<thead>
+		<tr>
+			<td colspan="6">
+				Drag a column header and drop it here to group by that column
+			</td>
+		</tr>
+		<tr>
+			<td>ProductID</td>
+			<td>Product name</td>
+			<td>Unit price</td>
+			<td>Quantity per unit</td>
+			<td>Units in stock</td>
+			<td>Discontinued</td>
+		</tr>
+		<tr>
+			<td>
+				<input type="text" size="2">
+				
+			</td>
+			<td>
+				<input type="text" size="20">
+			</td>
+			<td>
+				<input type="text" size="10">
+				<input type="button" value="^">
+			</td>
+			<td>
+				<input type="text" size="12">
+			</td>
+			</td>
+			<td>
+				<input type="text" size="10">
+				<input type="button" value="^">
+			</td>
+			<td>
+				<input type="checkbox">
+				<input type="button" value="^">
+			</td>
+		</tr>
+	</thead>
+
+	<tfoot>
+		<tr>
+			<td colspan="6">
+				<input type="button" value="|<">
+				<input type="button" value="<">
+				<span>1 2 3 4 5 6 7 8 9 10 ... </span>
+				<input type="button" value=">">
+				<input type="button" value="|>">
+				<span>Page size: </span>
+				<select>
+					<option>10</option>
+					<option>20</option>
+					<option>50</option>
+				</select>
+				<span id="counter">335104 items in 33511 pages</span>
+			</td>
+		</tr>
+	</tfoot>
+
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td>Chai</td>
+			<td>$18.00</td>
+			<td>10 boxes x 20 bags</td>
+			<td>39</td>
+			<td><input type="checkbox"></td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Chang</td>
+			<td>$19.00</td>
+			<td>24 - 12 oz bottles</td>
+			<td>17</td>
+			<td><input type="checkbox"></td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Aniseed Syrup</td>
+			<td>$10.00</td>
+			<td>12 - 500ml bottles</td>
+			<td>13</td>
+			<td><input type="checkbox"></td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Chef Anton's Cajun Seasoning</td>
+			<td>$22.00</td>
+			<td>48 - 6 oz jars</td>
+			<td>53</td>
+			<td><input type="checkbox"></td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>Chef Anton's Gumbo Mix</td>
+			<td>$21.35</td>
+			<td>36 boxes</td>
+			<td>0</td>
+			<td><input type="checkbox"></td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>Grandma's Boysenberry Spread</td>
+			<td>$21.35</td>
+			<td>12 - 8 oz jars</td>
+			<td>120</td>
+			<td><input type="checkbox"></td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>Uncle Bob's Organic Dried Pears</td>
+			<td>$30.00</td>
+			<td>12 - 1 lb. pkgs.</td>
+			<td>15</td>
+			<td><input type="checkbox"></td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>Northwood's Cranberry Sause</td>
+			<td>$40.00</td>
+			<td>12 - 12 oz jars</td>
+			<td>6</td>
+			<td><input type="checkbox"></td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>Mishi Kobe Niku</td>
+			<td>$97.00</td>
+			<td>18 - 500 g pkgs.</td>
+			<td>29</td>
+			<td><input type="checkbox"></td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>Ikura</td>
+			<td>$31.00</td>
+			<td>12 - 200 ml jars</td>
+			<td>31</td>
+			<td><input type="checkbox"></td>
+		</tr>
+	</tbody>
+</table>
+
+</body>
+</html>
